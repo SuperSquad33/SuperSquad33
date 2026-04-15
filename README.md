@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Anthony Beaulieu-Vallee 💫
 
-<!--
-**SuperSquad33/SuperSquad33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Coding / Walmart Assiciate / Student
+- 
+- 🌱 Currently learning: C#, HTML, JS, CSS.
+- 
+- 📫 Reach me: [anthony.bv.04@outlook.com](mailto:anthony.bv.04@outlook.com) / [LinkedIn]
+(https://www.linkedin.com/in/anthony-beaulieu-vallee-0b6753387)
 
-Here are some ideas to get you started:
+## ⚙My Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C# • C • Assembly* 
+
+## 🛠 My Favorite Tools
+
+NoePad++ • Visual Stuido • VSCode
+
+*I know know little about it.
