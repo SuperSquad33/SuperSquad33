@@ -8,10 +8,10 @@ implement `index.html`
 ![target layout](./assets/images/spec.png)
 
 ## Work
-- Describe the UI/UX clearly and specifically
-- What elements exist? What container elements exist?
-- How do users interact? What is the hover behavior?
+- Add background to spice site
+- Different fonts
+- clickable links
   
 ## Deliverables
-- What does “done” look like?
-- Be concrete and testable
+- Finished layout with every feature implemented
+- 
