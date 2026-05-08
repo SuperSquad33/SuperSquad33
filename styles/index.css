@@ -7,6 +7,10 @@ h1{
     font-family:'Courier New', Courier, monospace;
 }
 
+article{
+    display: flex;
+}
+
 h2{
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
@@ -26,3 +30,4 @@ h3{
 #coding{
     font-family: cursive;
 }
+
