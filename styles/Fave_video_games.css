@@ -1,3 +1,26 @@
-.gd{
-    size: 1rem;
+main{
+    text-align: center;
+}
+
+img{   
+    width: 17rem;
+}
+
+#gd{
+    background-image: linear-gradient(cyan,yellow);
+    padding: 0.5rem;
+}
+
+#Minecraft{
+ background-image: linear-gradient(cyan,green);
+ padding: 0.5rem;
+}
+
+.Dread{
+    background-image: linear-gradient(grey,red);
+    padding: 0.5rem;
+}
+
+body{
+    background-color: lightgray;
 }
