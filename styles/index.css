@@ -1,10 +1,10 @@
-body{
-    background-image: linear-gradient(yellow,cyan);
-}
-
 h1{
     size: 1rem;
     font-family:'Courier New', Courier, monospace;
+}
+
+article{
+    display: flex;
 }
 
 h2{
@@ -21,8 +21,10 @@ h3{
 
 #videogames{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0.5rem;
 }
 
 #coding{
     font-family: cursive;
 }
+
