@@ -21,6 +21,14 @@ img{
     padding: 0.5rem;
 }
 
-body{
-    background-color: lightgray;
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    font-family: cursive;
+}
+
+p{
+    font-family: fantasy;
 }
